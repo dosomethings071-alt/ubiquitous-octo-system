@@ -7,4 +7,6 @@ function newFeature() {
     console.log('This is a new featureb')
     console.log('this is a new gameb')
     console.log('this is a new feat 1 ')
+    console.log('this is a new feat 2')
+    
 }
