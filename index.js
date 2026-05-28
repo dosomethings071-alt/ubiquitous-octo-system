@@ -9,5 +9,15 @@ function newFeature() {
     console.log('this is a new feat 1 ')
     console.log('this is a new feat 2')
     console.log('this is a new feat 3')
+    console.log("this is a new feat D")
+    console.log("this is a new feat D")
+    console.log("this is a new feat D")
+    console.log("this is a new feat D")
+    console.log("this is a new feat D")
+
+    console.log("this is a new feat D")
+
+    console.log("this is a new feat D")
+
 
 }
